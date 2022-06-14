@@ -1,0 +1,16 @@
+.image_wrapper{
+
+    flex-direction: column;
+    
+}
+
+.image_wrapper img{
+    display: block;
+    height: 300px;
+    width: 250px;
+}
+
+.wrapp{
+    display: flex;
+    justify-content: center;
+}
